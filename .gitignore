@@ -1,0 +1,7 @@
+# Keys
+sistema/.env
+
+# DataBase Local
+sistema/db.sqlite3
+
+workspace.code-workspace
